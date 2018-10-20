@@ -1,4 +1,0 @@
-#Fri Oct 19 00:08:17 BRT 2018
-base.0=D\:\\GitHub\\BreatheBuddies\\BreatheBuddies\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
